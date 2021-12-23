@@ -1,0 +1,23 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+template: "online-cv"
+skin: "orange"
+
+basic_info:
+
+    # Profile information
+    first_name: Gabriel
+    last_name: Salazar
+    linkedin: https://www.linkedin.com/in/gasalazacr/
+    github: https://github.com/aseg3092
+    summary: |
+        I am person who likes to always learn new things, now i am on the bootcamp of 4Geeks Academy, i am trying to learn new stuff related with programming and create new project "Exercise based in getting a random excuse onloading the browser with JavaScript."
+        add to my portfolio
+
+
+        :) bye haha
+
+
+
+   
